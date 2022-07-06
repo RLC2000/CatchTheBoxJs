@@ -1,0 +1,7 @@
+#app {
+  width: 100px;
+  height: 100px;
+  background-color: indigo;
+  padding: 10px 5px 0px 5px;
+  box-sizing: border-box;
+}
